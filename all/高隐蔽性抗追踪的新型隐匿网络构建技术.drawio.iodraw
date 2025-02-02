@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="TZSDHcv375y_gvkYPDKj-2" value="" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=4;fillColor=#D4E1F5;fontSize=16;align=center;gradientColor=#ffffff;strokeColor=none;fontColor=#4D4D4D;" parent="1" vertex="1">
-          <mxGeometry x="-100" y="70" width="680" height="680" as="geometry" />
+          <mxGeometry x="-120" y="57.230000000000004" width="680" height="680" as="geometry" />
         </mxCell>
         <mxCell id="TZSDHcv375y_gvkYPDKj-7" value="二进制文件" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=2;fillColor=#D4E1F5;gradientColor=#ffffff;fontFamily=Helvetica;fontSize=24;align=center;strokeColor=#4D9900;gradientDirection=west;fontColor=#4D4D4D;" parent="1" vertex="1">
           <mxGeometry x="156.98571428571427" y="122.78222222222223" width="162.03571428571428" height="74.66666666666669" as="geometry" />
